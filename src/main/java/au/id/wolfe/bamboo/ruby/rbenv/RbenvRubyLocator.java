@@ -3,7 +3,7 @@ package au.id.wolfe.bamboo.ruby.rbenv;
 import au.id.wolfe.bamboo.ruby.common.RubyRuntime;
 import au.id.wolfe.bamboo.ruby.locator.RubyLocator;
 import au.id.wolfe.bamboo.ruby.util.FileSystemHelper;
-import com.atlassian.fage.Pair;
+import com.atlassian.fugue.Pair;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
 

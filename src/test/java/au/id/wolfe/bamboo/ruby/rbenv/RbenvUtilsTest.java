@@ -1,6 +1,6 @@
 package au.id.wolfe.bamboo.ruby.rbenv;
 
-import com.atlassian.fage.Pair;
+import com.atlassian.fugue.Pair;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.equalTo;

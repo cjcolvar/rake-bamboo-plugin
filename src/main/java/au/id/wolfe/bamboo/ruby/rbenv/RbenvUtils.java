@@ -1,6 +1,6 @@
 package au.id.wolfe.bamboo.ruby.rbenv;
 
-import com.atlassian.fage.Pair;
+import com.atlassian.fugue.Pair;
 import com.google.common.base.Preconditions;
 
 import java.io.File;

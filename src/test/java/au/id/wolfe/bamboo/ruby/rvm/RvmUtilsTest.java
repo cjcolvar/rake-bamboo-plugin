@@ -1,6 +1,6 @@
 package au.id.wolfe.bamboo.ruby.rvm;
 
-import com.atlassian.fage.Pair;
+import com.atlassian.fugue.Pair;
 import org.junit.Test;
 
 import java.util.List;

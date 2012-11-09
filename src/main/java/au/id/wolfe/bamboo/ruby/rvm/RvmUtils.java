@@ -1,7 +1,7 @@
 package au.id.wolfe.bamboo.ruby.rvm;
 
 
-import com.atlassian.fage.Pair;
+import com.atlassian.fugue.Pair;
 import com.google.common.collect.Lists;
 import org.apache.commons.lang.StringUtils;
 
